@@ -42,7 +42,7 @@
 			description: ''
 		};
 		closeBtn.click();
-		await loadRecipe();
+		
 	};
 	let recipeEdit = (recipe: RecipeModel) => {
 		addButton.click();
